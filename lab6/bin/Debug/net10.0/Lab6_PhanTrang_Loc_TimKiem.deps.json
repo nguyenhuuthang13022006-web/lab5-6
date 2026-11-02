@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab6_PhanTrang_Loc_TimKiem/1.0.0": {
+        "runtime": {
+          "Lab6_PhanTrang_Loc_TimKiem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6_PhanTrang_Loc_TimKiem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
